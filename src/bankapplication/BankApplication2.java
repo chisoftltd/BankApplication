@@ -47,7 +47,7 @@ public class BankApplication2 {
                     JOptionPane.showMessageDialog(null, "Account held by "+account.getName()+ " has balance" + account.getBalance());
                     break;
                 default:
-                    JOptionPane.showMessageDialog(null, "Bye", "Thanks for using my appilcation\n BENJAMIN", JOptionPane.CLOSED_OPTION);
+                    JOptionPane.showMessageDialog(null, "Thanks for using my appilcation\n BENJAMIN", "EXIT", JOptionPane.CLOSED_OPTION);
             }
         } while (answer != 0);
         
