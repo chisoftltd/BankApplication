@@ -9,7 +9,7 @@ package bankapplication;
 
 /**
  *
- * @author 1609963
+ * @author 1609963 (bENJAMIN cHINWE)
  */
 class Account {
 
